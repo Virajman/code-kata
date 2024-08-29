@@ -1,0 +1,10 @@
+10001Alice Brown 15 F Mathematics  95     A         Sunrise High 123 Maple St.       New York     
+10002Bob Smith   16 M Science      88     B+        Central High 456 Oak Ave.        Los Angeles  
+10003Charlie Tan 15 M History      92     A-        Eastside High789 Pine Rd.        Chicago      
+10004Diana Lee   17 F Chemistry    85     B         Westview High101 Elm St.         Houston      
+10005Eve Green   16 F Physics      89     B+        Sunrise High 234 Cedar St.       Phoenix      
+10006Frank White 15 M Biology      93     A-        Central High 567 Birch Rd.       Philadelphia 
+10007Grace Kim   16 F English      87     B         Eastside High890 Walnut Dr.      San Antonio  
+10008Hank Zhou   17 M Geography    90     A-        Westview High321 Maple St.       San Diego    
+10009Ivy Patel   15 F Art          92     A         Sunrise High 654 Pine Ave.       Dallas       
+10010Jack Lee    16 M Mathematics  94     A         Central High 987 Oak Dr.         San Jose     
